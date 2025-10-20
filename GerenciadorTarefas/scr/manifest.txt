@@ -1,0 +1,3 @@
+Main-Class: gerenciadortarefas.Main
+Class-Path: lib/gson-2.8.9.jar
+
