@@ -1,2 +1,2 @@
-# Projeto-Administrador-de-Tarefas
-Gestor de tarefas básico, construido em JAVA.
+# Task Manager JAVA.
+Basic task manager, built in JAVA.
